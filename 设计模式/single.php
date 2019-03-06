@@ -1,6 +1,9 @@
 <?php
 
-//传统模式
+//单例模式
+
+
+//非单例模式写法
 class Dog{
 	public function __construct(){
 		
